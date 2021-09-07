@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NaveenSohal
 - 👀 I’m interested in coding, anime, post production and graphic designing
 - 🌱 I started learning HTML and CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on naveensohal23@gmail.com
 
 <!---
