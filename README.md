@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NaveenSohal
-- 👀 I’m interested in coding, anime, post production and graphic designing
+- 👀 I’m interested in coding, anime, post production, graphic designing and AI art using stable diffusion.
 - 🌱 I started learning HTML and CSS
 - 📫 Reach me on naveensohal23@gmail.com
 
